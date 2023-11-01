@@ -10,7 +10,7 @@
   "author": "Shubham",
   "license": "ISC",
   "engines": {
-    "node": "=>16.20.1"
+    "node": ">=16.20.1"
   },
   "dependencies": {
     "cors": "^2.8.5",
